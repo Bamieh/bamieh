@@ -17,7 +17,8 @@ I am a software development engineer @elastic on the Kibana platform team. I Enj
 ## Nerd stats
 <br />
 
-<img align="left" alt="Bamieh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bamieh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=monokai&custom_title=Bamieh%27s%20Github%20Stats" />
+<a href="https://github.com/bamieh">
+  <img align="center" alt="Bamieh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bamieh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=monokai&custom_title=Bamieh%27s%20Github%20Stats" />
+</a>
 
 <br />
-
