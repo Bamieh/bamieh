@@ -1,6 +1,6 @@
 # Hello! I'm Ahmad Bamieh
 
-I am a software development engineer @elastic on the Kibana platform team. I Enjoy building cool stuff and contributing to OSS, having been a member @nodejs, founded their mentorship program, helped maintain MochaJS and other OSS projects.
+I am a software development engineer @elastic on the Kibana platform team. I Enjoy building cool stuff and contributing to OSS, having been a member @nodejs community committee, founded their mentorship program, helped maintain MochaJS and other OSS projects.
 
 <br />
 
